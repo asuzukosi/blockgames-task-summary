@@ -18,7 +18,7 @@ project 2 Decentralized file uploader
 - Added events to the atlantis file manager contact. can be found here https://github.com/prince-curie/literate-octo-palm-tree/pull/20/files
 
 
-project 3
+project 3 Decentralized school voting application
 ----------
 
 - implemented 'viewElection', 'viewElectionStats', 'compileResults', 'viewResult', 'banVoter', 'unbanVoter' and 'viewResult' function on the smart contract. can be found here: https://github.com/punk1234/zuri-school-election-dapp/pull/10/files
